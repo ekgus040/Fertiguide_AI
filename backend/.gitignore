@@ -1,0 +1,18 @@
+# 환경변수 (실제 API 키 포함 — 절대 커밋 금지)
+.env
+
+# 가상환경
+.venv/
+venv/
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# 런타임 DB (실사용 상담/유저 데이터 포함)
+fertiguide.db
+*.db-journal
+
+# OS/에디터
+.DS_Store

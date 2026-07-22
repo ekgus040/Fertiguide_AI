@@ -1,0 +1,16 @@
+# 의존성
+node_modules/
+
+# Next.js 빌드 산출물
+.next/
+out/
+
+# 환경변수 (로컬 전용)
+.env.local
+
+# 타입스크립트 빌드 캐시
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# OS/에디터
+.DS_Store
